@@ -1,0 +1,8 @@
+{
+  "name": "KhojVerse - Explore the Multiverse of Ideas",
+  "description": "A revolutionary platform for exploring trending ideas, hackathons, projects, and research with a futuristic, minimal aesthetic.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
